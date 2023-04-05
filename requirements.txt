@@ -1,3 +1,2 @@
-pickle
 flask
-fflask_cors
+flask_cors
